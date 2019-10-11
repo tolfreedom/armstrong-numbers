@@ -1,1 +1,2 @@
 #armstrongnumbers
+# armstrong-numbers
